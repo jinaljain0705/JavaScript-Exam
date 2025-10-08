@@ -1,6 +1,6 @@
 # JavaScript Exam
 
-Product Page with CRUD Operations
+![productPage](productPage.png)
 
 Project Objective:
 
@@ -49,5 +49,3 @@ Project Requirements :
 8. User Interaction (5 points) :
 
 ​- Ensure that input fields are cleared after successfully adding a new product - make good UI
-
-![productPage](productPage.png)
